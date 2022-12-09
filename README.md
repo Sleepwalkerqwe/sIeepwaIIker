@@ -26,4 +26,5 @@
 
 # Contacts 
 
-[Telegram](https://t.me/sleepwalkerua)
+- [Telegram](https://t.me/sleepwalkerua)
+- Discord - sleepwalker#5665
