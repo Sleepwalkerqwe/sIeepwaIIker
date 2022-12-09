@@ -6,7 +6,8 @@
 - ### I'm an IT developer from Ukraine
 - ### I'm 17 years old 
 - ### I finished Academic Gymnasium in 2022, and graduated into the Kharkiv National University of Radio Electronics
-- ### I know English at a very good level, and I know a little German
+- ### I've been learning 3 years of Python and 1.5 years of JS HTML and CSS
+- ### I'm currently learning Java script and MYSQL
 - ### I know English at level - B2, and German - B1
 
 
