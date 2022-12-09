@@ -1,16 +1,29 @@
-### Hi there 
+<img src="https://cdn.discordapp.com/attachments/1046683627121033256/1050483713156321280/image.png"/>
 
-<!--
-**sIeepwaIIker/sIeepwaIIker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### I'm an IT developer from Ukraine
+- ### I'm 17 years old 
+- ### I finished Academic Gymnasium in 2022, and graduated into the Kharkiv National University of Radio Electronics
+- ### I know English at a very good level, and I know a little German
+- ### I know English at level - B2, and German - B1
+
+
+# My tech stack 
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=FF0000"/><img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS Wizardry&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=WordPress&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-black?style=for-the-badge&logo=Adobe Photoshop&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Adobe Premiere-black?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=FF0000"/>
+
+
+# Codewars
+<img src="https://cdn.discordapp.com/attachments/1046683627121033256/1050485533433925742/image.png"/>
+<img src="https://cdn.discordapp.com/attachments/1046683627121033256/1050484867038715904/image.png"/>
+
+# Contacts 
+
+[Telegram](https://t.me/sleepwalkerua)
